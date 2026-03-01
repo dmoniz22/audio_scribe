@@ -1,0 +1,5 @@
+{
+  "name": "AudioScribe",
+  "description": "Bulk upload audio files for transcription, summarization, and action item extraction using Gemini AI.",
+  "requestFramePermissions": []
+}
